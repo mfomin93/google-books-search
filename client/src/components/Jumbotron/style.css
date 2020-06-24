@@ -1,0 +1,9 @@
+div.jumbotron {
+background-image: url(booksbkg.jpg);
+background-size: cover;
+
+}
+
+.white{
+    color:lightcyan;
+}
